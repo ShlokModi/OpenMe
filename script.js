@@ -18,6 +18,6 @@ document.getElementById('noBtn').onclick = function() {
   
   document.getElementById('yesBtn').onclick = function() {
     var responseText = document.getElementById('response');
-    responseText.textContent = "Now text me on Insta when to!";
+    responseText.textContent = "Now text me when to go!";
   };
   
